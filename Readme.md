@@ -4,7 +4,8 @@
 This is a contacts android application for that displays contacts, edit contacts and delete contacts. 
 
 **Languages Used:** XML, Java
-**Framework Used:** Android Studio
+
+**IDE Used:** Android Studio
 
 ## Problem Statement
 
